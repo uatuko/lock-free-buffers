@@ -50,6 +50,7 @@ AC_CONFIG_FILES([ \
 	include/Makefile \
 	lib/Makefile \
 	src/Makefile \
+	src/examples/Makefile \
 	test/Makefile
 ])
 
